@@ -7,7 +7,19 @@ body{
     font-family: sans-serif;
 }
 
+header{
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+}
 
+h1{
+    color: white;
+    line-height: 1px;
+    letter-spacing: 0.3em;
+    font-size: 30px;
+
+}
 
 .backgroundvideo{
     position: absolute;
